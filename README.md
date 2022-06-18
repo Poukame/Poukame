@@ -21,7 +21,11 @@ Well, coding has been in the back of my mind for almost 10 years but I never too
 
 I am an aspiring junior front-end developer who has learned the JavaScript, React, HTML, and CSS stack and is ready to share his skills on cool projects to make the company thrive and continue to learn as much as possible.
 
+<br>
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theretg)
+
+
 
 ## Other things I like to do :
 🎲 Play modern board games (Spirit Island is my #1, GloomHaven, Kemet B&S...),
