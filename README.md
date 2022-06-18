@@ -1,25 +1,25 @@
 
 # Bonjour 🥖🍷🧀, I'm Guillaume...
 ....aka "G" because unless you are French the pronunciation of my
-name will remain a mystery for eternity.
+name will remain a mystery for eternity 😅 
 
 
 ## 🚀 About Me
 Probably the only dev without a Twitter account. Tried it, didn't like it ¯¯\\_(ツ)__/¯¯
  
-So I'm stuck keeping up to date with old technologies like books and RSS feeds.
+So, I'm stuck keeping up to date with old technologies like books and RSS feeds.
 
-In another life, I worked in the industry and lived in 4 differents countries (Kuwait, Qatar, Angola, Kenya).
+In another life, I worked in the Oil & Gas industry and lived in 4 countries (Kuwait, Qatar, Angola, Kenya).
 
-Then for 8 years I did my own business in differents domains health related, built 3 websites, wrote more than 150 articles, recorded more than 100 Youtube videos and created 2 online courses.
+For the next eight years, I pursued my own business in different domains related to health, wrote more than 150 articles, recorded more than 100 Youtube videos, and created 2 online courses.
 
-**So why change?**
+**So, why change?**
 
 Good question, glad you asked.
 
-Well, coding has been hitching me for almost 10 years but I never took the step. But I don't want to living the rest of my life with regrets and decided to jump into it. **And boy I love it !!!**
+Well, coding has been in the back of my mind for almost 10 years but I never took the step. I don't want to live the rest of my life with regrets and decided to try it. **And I am absolutely in love with it!  😍**
 
-So today I'm an aspiring junior front-end developper who has leaned the `JavaScript`, `REACT`, `HTML` and `CSS` stack and is ready to share my skills on cool projects and keep learning as I do so.
+I am an aspiring junior front-end developer who has learned the JavaScript, React, HTML, and CSS stack and is ready to share his skills on cool projects to make the company thrive and continue to learn as much as possible.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theretg)
 
