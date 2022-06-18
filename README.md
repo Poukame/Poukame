@@ -3,6 +3,7 @@
 ....aka "G" because unless you are French the pronunciation of my
 name will remain a mystery for eternity 😅 
 
+<br>
 
 ## 🚀 About Me
 Probably the only dev without a Twitter account. Tried it, didn't like it ¯¯\\_(ツ)__/¯¯
@@ -13,7 +14,7 @@ In another life, I worked in the Oil & Gas industry and lived in 4 countries (Ku
 
 For the next eight years, I pursued my own business in different domains related to health, wrote more than 150 articles, recorded more than 100 Youtube videos, and created 2 online courses.
 
-**So, why change?**
+> **So, why change?**
 
 Good question, glad you asked.
 
@@ -38,10 +39,14 @@ I am an aspiring junior front-end developer who has learned the JavaScript, Reac
 
 🎯 Play Cornhole
 
+<br>
 
 ## 🛠  Technologies and tools
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />    <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />  <img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" />  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+
+<br>
+
 
 ## 📖  What I am interested in learning at some point
 
