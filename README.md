@@ -12,7 +12,7 @@ So, I'm stuck keeping up to date with old technologies like books and RSS feeds.
 
 In another life, I worked in the Oil & Gas industry and lived in 4 countries (Kuwait, Qatar, Angola, Kenya).
 
-For the next eight years, I pursued my own business in different domains related to health, wrote more than 150 articles, recorded more than 100 Youtube videos, and created 2 online courses.
+For the last eight years, I pursued my own business in different domains related to health, wrote more than 150 articles, recorded more than 100 Youtube videos, and created 2 online courses.
 
 > **So, why change?**
 
