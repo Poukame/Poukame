@@ -20,7 +20,7 @@ Good question, glad you asked.
 
 Well, coding has been in the back of my mind for almost 10 years but I never took the step. I don't want to live the rest of my life with regrets and decided to try it. **And I am absolutely in love with it!  😍**
 
-I am an aspiring junior front-end developer who has learned the JavaScript, React, HTML, and CSS stack and is ready to share his skills on cool projects to make the company thrive and continue to learn as much as possible.
+I learned JavaScript, React, HTML, and CSS stack and today I feel ready to share my skills on cool projects to make your company thrive and continue to learn as much as possible.
 
 <br>
 
