@@ -10,25 +10,7 @@ Probably the only dev without a Twitter account. Tried it, didn't like it ¯¯\\
  
 So, I'm stuck keeping up to date with old technologies like books and RSS feeds.
 
-In another life, I worked in the Oil & Gas industry and lived in 4 countries (Kuwait, Qatar, Angola, Kenya).
-
-For the last eight years, I pursued my own business in different domains related to health, wrote more than 150 articles, recorded more than 100 Youtube videos, and created 2 online courses.
-
-> **So, why change?**
-
-Good question, glad you asked.
-
-Well, coding has been in the back of my mind for almost 10 years but I never took the step. I don't want to live the rest of my life with regrets and decided to try it. **And I am absolutely in love with it!  😍**
-
-I learned JavaScript, React, HTML, and CSS stack and today I feel ready to share my skills on cool projects to make your company thrive and continue to learn as much as possible.
-
-<br>
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theretg)
-
-
-
-## Other things I like to do :
+## Things I like to do :
 🎲 Play modern board games (Spirit Island is my #1, GloomHaven, Kemet B&S...),
 
 🎸 Play guitar,
